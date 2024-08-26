@@ -6,8 +6,8 @@
 
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(90deg, rgb(56, 48, 202) 4%, rgb(61, 61, 148) 51%, rgba(20,80,159,1) 100%);
-    color: white;
+    background-image: linear-gradient(to right, #8828e2, #3937cd);
+    color: white;S
 }
 .container{
     /* border: 1px solid black; */
