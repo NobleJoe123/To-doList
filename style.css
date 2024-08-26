@@ -6,7 +6,7 @@
 
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to right, #e22865, #37adcd);
+    background-image: conic-gradient(from -.5turn at bottom right, deeppink, cyan, rebeccapurple);
     color: white;
 }
 .container{
